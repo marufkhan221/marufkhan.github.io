@@ -24,21 +24,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "maruf.png"
-  name             : " Md. Maruf Khan"
+  name             : "Md. Maruf Khan"
   pronouns         : # example: "she/her"  
   bio              : "Researcher, Learner, Explorer"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Dhaka, Bangladesh"
+  employer         : "Primeasia University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "marufkhan5646@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=HdWr8TsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-1546-0127"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
